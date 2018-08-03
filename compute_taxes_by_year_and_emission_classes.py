@@ -1,5 +1,9 @@
 ######################################################################
-#Mikko Majamaa 3rd of August 2018
+# Mikko Majamaa 3rd of August 2018
+# This program reads and analyzes csv files provided by Trafi that
+# include data on cars registered in Finland. 
+#
+# See README.txt for more info
 
 import read_taxes_by_emissions
 

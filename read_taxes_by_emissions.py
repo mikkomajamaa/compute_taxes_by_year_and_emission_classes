@@ -1,8 +1,9 @@
 ######################################################################
 # Mikko Majamaa 3rd of August 2018
 #
-# Read the txt file made by copying the content of the pdf file from Trafis website
-# which contains the amount of taxes based on CO2 emissions starting of 1st of January 2017.
+# Read the txt file made by copying the content of the pdf file from
+# Trafis website which contains the amount of taxes based on CO2
+# emissions starting of 1st of January 2017.
 #
 # source of the pdf:
 # https://www.trafi.fi/filebank/a/1451562298/0c255e16194750e2e32e41437f7012f9/19402-Ajoneuvoveron_perusvero_co2_mukaan.pdf
