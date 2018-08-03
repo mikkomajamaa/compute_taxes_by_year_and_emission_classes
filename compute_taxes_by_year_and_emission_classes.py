@@ -3,7 +3,7 @@
 # This program reads and analyzes csv files provided by Trafi that
 # include data on cars registered in Finland. 
 #
-# See README.txt for more info
+# See README.txt for more info.
 
 import read_taxes_by_emissions
 
